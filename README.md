@@ -1,4 +1,5 @@
 # apnacollege-demo
+
 First github repository
 <br>
-Author: Aryan
+Author: Full Name - Aryan Choudhary
